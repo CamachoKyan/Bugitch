@@ -1,0 +1,39 @@
+
+motor electrico
+3 tipos de actuadores
+ventajas y desventajas, ventaja es que es barato. son debiles
+
+neumaticos aire son rapidos caros mantenimiento
+
+hidraulico mejor fuerza caros mantenimiento
+
+
+caracteristicas de los sensores
+que es un sensor
+
+sensor digital y analogico
+
+rango max min que mide - 5k ohms
+
+resolucion
+
+exactitud valor real
+
+precision repetir mismo valor indeoendientemente que este mal
+
+sensibilidad deteccion a cambios minimos
+
+
+
+como funciona el potenciometro
+
+para que sirve la calibracion de un sensor
+
+
+como funciona el sensor ultrasonico
+
+area de asentuacion
+
+roblox
+pokemon
+breaking bad
