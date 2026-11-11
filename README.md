@@ -13,6 +13,9 @@ Se agregarón sprites al jugador y cambio de dirección a partir de la posición
 * Iniciar combates
 * Añadir funciones de ataque y daño
 * Refactorización del código
+  
+### IA
+*Este proyecto **NO** usa IA*
 
 ### Hoy explica
 Kyan
