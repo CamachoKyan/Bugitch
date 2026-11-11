@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://b7oplfr3od4ih"]
+
+[ext_resource type="Script" uid="uid://b8mweggcsrku1" path="res://Game/Scripts/Dungeon/RoomHitBoxBattle/RoomHitBoxBattle.gd" id="1_c5n0j"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_sau36"]
+size = Vector2(352.85, 352)
+
+[node name="RoomHitBox" type="Area2D" unique_id=1529779427 node_paths=PackedStringArray("HitBox")]
+script = ExtResource("1_c5n0j")
+HitBox = NodePath("HitBox")
+
+[node name="HitBox" type="CollisionShape2D" parent="." unique_id=14630991]
+shape = SubResource("RectangleShape2D_sau36")
+
+[connection signal="body_entered" from="." to="." method="RoomHitBox"]
