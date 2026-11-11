@@ -15,7 +15,7 @@ Se agregarón sprites al jugador y cambio de dirección a partir de la posición
 * Refactorización del código
   
 ### IA
-*Este proyecto **NO** usa IA*
+*No se utilizó IA*
 
 ### Hoy explica
 Kyan
